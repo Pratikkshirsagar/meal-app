@@ -6,5 +6,5 @@ import MealDetailScreen from '../screens/MealDetailScreen';
 createStackNavigator({
   categories: CategoriesScreen,
   categoryMeals: CategoryMealsScreen,
-  mealDetail: mealDetail,
+  mealDetail: MealDetailScreen,
 });
